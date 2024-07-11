@@ -14,7 +14,7 @@
             <!-- Card 1 -->
             <div class="col-md-6">
                 <div class="card">
-                    <img src="images/Doctor.jpg" class="card-img-left" alt="Doctor 1">
+                    <img src="images/doctor-1.jpg" class="card-img-left" alt="Doctor 1">
                     <div class="card-body" style="margin-left: -30px;">
                         <h5 class="card-title">Dr. John Doe</h5>
                         <p class="card-text"><strong>Speciality:</strong> Cardiologist</p>
@@ -30,7 +30,7 @@
             <!-- Card 2 -->
             <div class="col-md-6">
                 <div class="card">
-                    <img src="images/Doctor.jpg" class="card-img-left" alt="Doctor 1">
+                    <img src="images/doctor-2.jpg" class="card-img-left" alt="Doctor 1">
                     <div class="card-body" style="margin-left: -30px;">
                         <h5 class="card-title">Dr. John Doe</h5>
                         <p class="card-text"><strong>Speciality:</strong> Cardiologist</p>
@@ -46,7 +46,7 @@
             <!-- Card 3 -->
             <div class="col-md-6">
                 <div class="card">
-                    <img src="images/Doctor.jpg" class="card-img-left" alt="Doctor 1">
+                    <img src="images/doctor-3.jpg" class="card-img-left" alt="Doctor 1">
                     <div class="card-body" style="margin-left: -30px;">
                         <h5 class="card-title">Dr. John Doe</h5>
                         <p class="card-text"><strong>Speciality:</strong> Cardiologist</p>
@@ -63,7 +63,7 @@
              <!-- Card 4 -->
              <div class="col-md-6">
                 <div class="card">
-                    <img src="images/Doctor.jpg" class="card-img-left" alt="Doctor 1">
+                    <img src="images/doctor-4.jpg" class="card-img-left" alt="Doctor 1">
                     <div class="card-body" style="margin-left: -30px;">
                         <h5 class="card-title">Dr. John Doe</h5>
                         <p class="card-text"><strong>Speciality:</strong> Cardiologist</p>

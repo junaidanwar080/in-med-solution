@@ -5,7 +5,7 @@ if (isset($_POST)) {
 		$user_email = test_input($_POST["email"]);
 		$password = test_input($_POST["password"]);
 		if ($user_email == "" || $password == "") {
-			echo "Please Fill BOthe fields";
+			echo "Please Fill Bothe fields";
 		} else {
       $user_name = "";
 			$select_user = "SELECT * FROM users WHERE email ='$user_email' AND password = '$password'";

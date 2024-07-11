@@ -26,15 +26,15 @@
       <div id="customCarousel1" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <div class="container ">
+            <div class="container">
               <div class="row">
                 <div class="col-md-6  ">
                   <div class="detail-box">
-                    <div class="play_btn">
+                    <!-- <div class="play_btn">
                       <button>
                         <i class="fa fa-play" aria-hidden="true"></i>
                       </button>
-                    </div>
+                    </div> -->
                     <h1>
                       Inmedsolution 
                     </h1>
@@ -42,9 +42,9 @@
                       when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal
                       distribution of letters, as opposed to
                     </p>
-                    <a href="choose_department.php">
+                    <!-- <a href="choose_department.php">
                       Book Now
-                    </a>
+                    </a> -->
                   </div>
                 </div>
                 <div class="col-md-6">
@@ -151,7 +151,7 @@
               Book Our <br><span>Services</span>
             </h2>
           </div>
-          <a href="choose_department.php" class="btn btn-primary">
+          <a href="form1.php" class="btn btn-primary">
             Book
           </a>
         </div>
@@ -163,7 +163,7 @@
               Pharmacy <br><span>Services</span>
             </h2>
           </div>
-          <a href="" class="btn btn-primary">
+          <a href="buy-medicine.php" class="btn btn-primary">
             Buy
           </a>
         </div>
@@ -395,22 +395,19 @@
               <div class="client_info">
                 <div class="client_name">
                   <h5>
-                    Morijorch
+                  Dr. Sarah Brown
                   </h5>
-                  <h6>
+                  <!-- <h6>
                     Default model text
-                  </h6>
+                  </h6> -->
                 </div>
                 <i class="fa fa-quote-left" aria-hidden="true"></i>
               </div>
               <p>
-                editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover
-                many
-                web sites still in their infancy. Variouseditors now use Lorem Ipsum as their default model text, and a
-                search for 'lorem ipsum' will uncover many web sites still in their infancy. Variouseditors now use
-                Lorem
-                Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in
-                their infancy. Various
+              I had an amazing experience at this medical facility. The staff was incredibly kind and professional, and 
+              Dr. Brown took the time to explain everything thoroughly. The care I received was top-notch, and I felt truly 
+              cared for throughout my visit. 
+              I highly recommend this medical service to anyone seeking quality healthcare.
               </p>
             </div>
           </div>

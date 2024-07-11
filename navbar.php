@@ -169,10 +169,10 @@ cb=googleTranslateElementInit">
                       Appointment Booking
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                      <a class="dropdown-item" href="index.php">Check Up Tourch Video Conferencing</a>
+                      <a class="dropdown-item" href="index.php">Check Up Touch Video Conferencing</a>
                       <a class="dropdown-item" href="index.php">Online doctors prescription</a>
                       <a class="dropdown-item" href="index.php">Patient Lab report</a>
-                      <a class="dropdown-item" href="patient-list.php">Patient History</a>
+                      <!-- <a class="dropdown-item" href="patient-list.php">Patient History</a> -->
                       <a class="dropdown-item" href="reslae.php">Resale</a>
                     </div>
                   </li>
